@@ -1,0 +1,16 @@
+.image {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.button {
+  background-color: transparent;
+  margin: 10px;
+  height: 200px;
+  width: 200px;
+  border-width: 0px;
+  outline: none;
+  cursor: pointer;
+  border-radius: 10px;
+}

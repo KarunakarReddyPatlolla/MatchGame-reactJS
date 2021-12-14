@@ -1,0 +1,29 @@
+.tab-item {
+  list-style-type: none;
+}
+
+.active-tab-name {
+  color: #fec653;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: bold;
+  margin: 5px;
+  padding: 10px;
+  border-bottom: 2px solid #fec653;
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+}
+
+.tab-name {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: bold;
+  margin: 5px;
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+}
